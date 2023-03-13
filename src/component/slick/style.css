@@ -1,0 +1,8 @@
+.paper {
+    background-color: aqua;
+    margin: 10%;
+    border-radius: 10px;
+    max-width: 170px;
+    min-width: 80px;
+    height: 80px
+}
