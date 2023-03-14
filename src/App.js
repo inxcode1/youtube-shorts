@@ -1,11 +1,11 @@
 import "./App.css";
-import { NetworkSpeed } from "./component/NetworkSpeed/NetworkSpeed";
+import { CSVDownload } from "./component/CSVDownload/CSVDownload";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <NetworkSpeed></NetworkSpeed>
+        <CSVDownload />
       </div>
     </div>
   );
