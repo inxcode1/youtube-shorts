@@ -1,11 +1,11 @@
 import "./App.css";
-import { CamelCase } from "./component/CamelCase/CamelCase";
+import { TextToSpeech } from "./component/TextToSpeech/TextToSpeech";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <CamelCase />
+       <TextToSpeech />
       </div>
     </div>
   );
