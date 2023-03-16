@@ -1,11 +1,11 @@
 import "./App.css";
-import { TextToSpeech } from "./component/TextToSpeech/TextToSpeech";
+import { BMICalculator } from "./component/BMICalculator/BMICalculator";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-       <TextToSpeech />
+       <BMICalculator />
       </div>
     </div>
   );
