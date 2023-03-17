@@ -1,11 +1,11 @@
 import "./App.css";
-import { BMICalculator } from "./component/BMICalculator/BMICalculator";
+import { PalindromeChecker } from "./component/PalindromeChecker/PalindromeChecker";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-       <BMICalculator />
+       <PalindromeChecker />
       </div>
     </div>
   );
