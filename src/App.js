@@ -1,11 +1,11 @@
 import "./App.css";
-import { PalindromeChecker } from "./component/PalindromeChecker/PalindromeChecker";
+import { SearchFilter } from "./component/SearchFilter/SearchFilter";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-       <PalindromeChecker />
+        <SearchFilter />
       </div>
     </div>
   );
