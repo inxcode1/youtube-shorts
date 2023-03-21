@@ -1,11 +1,11 @@
 import "./App.css";
-import { SearchFilter } from "./component/SearchFilter/SearchFilter";
+import { CurrencyConvert } from "./component/CurrencyConvert/CurrencyConvert";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <SearchFilter />
+        <CurrencyConvert />
       </div>
     </div>
   );
