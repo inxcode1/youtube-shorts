@@ -1,11 +1,11 @@
 import "./App.css";
-import { CurrencyConvert } from "./component/CurrencyConvert/CurrencyConvert";
+import { Joke } from "./component/Joke/Joke";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <CurrencyConvert />
+        <Joke />
       </div>
     </div>
   );
