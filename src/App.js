@@ -1,11 +1,11 @@
 import "./App.css";
-import { ConvertKMToMile } from "./component/ConvertKMToMile/ConvertKMToMile";
+import { ValidateEmail } from "./component/ValidateEmail/ValidateEmail";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <ConvertKMToMile />
+        <ValidateEmail />
       </div>
     </div>
   );

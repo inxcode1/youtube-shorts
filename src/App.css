@@ -38,7 +38,7 @@
 }
 
 .App-dark {
-  background-color: rgb(63, 16, 63);
+  background-color: #e8e8e8;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
