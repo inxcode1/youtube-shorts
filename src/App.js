@@ -1,11 +1,11 @@
 import "./App.css";
-import { ValidateEmail } from "./component/ValidateEmail/ValidateEmail";
+import { BarGraph } from "./component/Chart/BarGraph";    
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <ValidateEmail />
+        <BarGraph />
       </div>
     </div>
   );
