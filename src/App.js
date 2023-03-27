@@ -1,11 +1,11 @@
-import "./App.css";
-import { BarGraph } from "./component/Chart/BarGraph";    
+import "./App.css"; 
+import { MultiSelect } from "./component/MultiSelect/MultiSelect";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <BarGraph />
+        <MultiSelect />
       </div>
     </div>
   );

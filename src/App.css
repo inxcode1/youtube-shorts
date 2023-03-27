@@ -44,7 +44,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
+  text-align: left;
   color: black;
 }
 
@@ -75,4 +75,12 @@
 
 img {
   border-radius: 10px;
+}
+
+.card {
+  width: 350px;
+  height: 250px;
+  border-radius: 20px;
+  background: #e0e0e0;
+  box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
 }
