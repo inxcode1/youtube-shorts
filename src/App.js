@@ -1,11 +1,11 @@
 import "./App.css"; 
-import { MultiSelect } from "./component/MultiSelect/MultiSelect";
+import { FindTheDayOfYear } from "./component/FindTheDayOfYear/FindTheDayOfYear";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <MultiSelect />
+        <FindTheDayOfYear />
       </div>
     </div>
   );
