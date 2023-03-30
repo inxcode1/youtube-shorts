@@ -38,7 +38,7 @@
 }
 
 .App-dark {
-  background-color: #e8e8e8;
+  background: linear-gradient(170deg, rgba(58, 56, 56, 0.623) 0%, rgb(31, 31, 31) 100%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -78,9 +78,9 @@ img {
 }
 
 .card {
-  width: 350px;
-  height: 260px;
+  width: 400px;
+  height: 480px;
   border-radius: 20px;
   background: #e0e0e0;
-  box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff;
+  /* box-shadow: 15px 15px 30px #bebebe, -15px -15px 30px #ffffff; */
 }
