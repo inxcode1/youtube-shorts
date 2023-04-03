@@ -1,11 +1,11 @@
 import "./App.css";
-import { DoughnutGraph } from "./component/Chart/DoughnutGraph";
+import { Parallax } from "./component/Parallax/Parallax";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <DoughnutGraph />
+        <Parallax />
       </div>
     </div>
   );
