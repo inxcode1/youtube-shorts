@@ -1,11 +1,11 @@
 import "./App.css";
-import { CandleStickChart } from "./component/ApexChart/CandleStickChart";
+import { ImageFilter } from "./component/ImageFilter/ImageFilter";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <CandleStickChart />
+        <ImageFilter />
       </div>
     </div>
   );
