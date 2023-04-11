@@ -1,11 +1,11 @@
 import "./App.css";
-import { ImageFilter } from "./component/ImageFilter/ImageFilter";
+import { PowerButton } from "./component/Button/PowerButton";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <ImageFilter />
+        <PowerButton />
       </div>
     </div>
   );
