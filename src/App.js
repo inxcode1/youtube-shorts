@@ -1,11 +1,11 @@
 import "./App.css";
-import { PictureInPicture } from "./component/PictureInPicture/PictureInPicture";
+import { BatmanButton } from "./component/BatmanButton/BatmanButton";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <PictureInPicture />
+        <BatmanButton />
       </div>
     </div>
   );
