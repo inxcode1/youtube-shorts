@@ -1,11 +1,11 @@
 import "./App.css";
-import { BatmanButton } from "./component/BatmanButton/BatmanButton";
+import { PrintButton } from "./component/Button/PrintButton";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <BatmanButton />
+        <PrintButton />
       </div>
     </div>
   );
