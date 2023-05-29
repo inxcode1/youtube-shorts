@@ -1,11 +1,11 @@
 import "./App.css";
-import { PrintButton } from "./component/Button/PrintButton";
+import { NetflixLogo } from "./component/Netflix/NetflixLogo";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <PrintButton />
+        <NetflixLogo />
       </div>
     </div>
   );
