@@ -1,11 +1,12 @@
 import "./App.css";
-import { NetflixLogo } from "./component/Netflix/NetflixLogo";
+import { AvatarHover } from "./component/AvatarHover/AvatarHover";
+import { ShakeInput } from "./component/ShakeInput/ShakeInput";
 
 function App() {
   return (
     <div className="App">
       <div className="App-dark">
-        <NetflixLogo />
+        <AvatarHover />
       </div>
     </div>
   );
